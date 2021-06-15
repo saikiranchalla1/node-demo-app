@@ -1,4 +1,4 @@
-# Testing
+# Testing Spinnaker
 # node demo app
 
 ## Docker
